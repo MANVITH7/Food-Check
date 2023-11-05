@@ -8,7 +8,7 @@ In today's health-conscious world, understanding what goes into our food is more
 Key Features:
 
 Ingredient Search: Quickly search food product names to access comprehensive ingredient listings.
-Allergen Alerts: Receive clear warnings about potential allergens, including peanuts, wheat, gluten, soy, dairy, and mashroom.
+Allergen Alerts: Receive clear warnings about potential allergens, including peanuts, wheat, gluten, soy, dairy, and mushrooms.
 Dietary Restrictions: Identify ingredients that may conflict with specific dietary needs, such as vegan, vegetarian, and diabetic restrictions.
 Nutritional Information: Gain insights into the nutritional value of your food, including calories, fat, carbohydrates, protein, and vitamins.
 
