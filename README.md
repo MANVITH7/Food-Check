@@ -26,3 +26,7 @@ Individuals with Dietary Restrictions: Adhere to specific dietary needs, such as
 Parents and Caregivers: Ensure the safety and well-being of your loved ones by making informed food choices.
 
 Experience Food Check today and take control of your food choices!
+
+How to run this File:
+
+To run the FoodCheck.py file you would need to install Python and PyQt5. The tables in mySQL for different products are uploaded as well and this database would be needed to get the working model.
