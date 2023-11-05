@@ -445,7 +445,7 @@ class Ui_App(object):
         
         if (diabetic):
             check = isDb(sItem)
-            if check == False:
+            if check == True:
                 issues.append("It contains Sugar")
 
         
